@@ -13,7 +13,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="http://ka-container-mbii.s3-website.us-east-1.amazonaws.com/"
+          href="visualize-graph.html"
           target="_blank"
           rel="noopener noreferrer"
         >
